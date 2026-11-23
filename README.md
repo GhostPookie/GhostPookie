@@ -1,15 +1,6 @@
-```console
-ghost@pookie:~$ whoami
-GhostPookie — software developer
-
-ghost@pookie:~$ cat motto.txt
-build things that work; measure whether they do
-
-ghost@pookie:~$ ls /usr/local/stack
-python  numpy  scipy  latex  git  github  linux  bash
-
-ghost@pookie:~$ gh api /users/ghostpookie/stats
-```
+<div align="center">
+<img width="760" src="terminal.svg" alt="terminal" />
+</div>
 
 <div align="center">
 <table><tr>
@@ -18,15 +9,7 @@ ghost@pookie:~$ gh api /users/ghostpookie/stats
 </tr></table>
 </div>
 
-```console
-ghost@pookie:~$ ./activity --graph
-```
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GhostPookie&theme=tokyo-night&hide_border=true&area=true" />
-
-```console
-ghost@pookie:~$ exit
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhostPookie/GhostPookie/output/github-contribution-grid-snake-dark.svg" />
